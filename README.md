@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Gabriel 👋
 
-<!--
-**gabrielmihailtech/gabrielmihailtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Cybersecurity student currently building hands-on experience through practical investigations and security labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- Security Operations (SOC)
+- DFIR (Digital Forensics & Incident Response)
+- Threat Detection
+- Network Traffic Analysis
+- Vulnerability Management
+
+### Platforms & Labs
+
+- CyberDefenders
+- LetsDefend
+- OverTheWire
+- Wireshark
+
+### Featured Projects
+
+- DFIR CyberDefenders Portfolio
+- LetsDefend SOC Portfolio
+- Wireshark Investigations
+- Cybersecurity Notes
+- OverTheWire Bandit Writeups
+
+### Currently Learning
+
+- Linux
+- Networking
+- Threat Detection
+- Incident Response
+- Security Operations
+
+📍 Ireland

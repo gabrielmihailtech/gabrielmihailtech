@@ -11,6 +11,8 @@ Cybersecurity student currently building hands-on experience through practical i
 - Threat Detection
 - Network Traffic Analysis
 - Vulnerability Management
+- Threat Hunting
+- Incident Response
 
 ### Platforms & Labs
 

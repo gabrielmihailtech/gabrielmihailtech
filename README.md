@@ -2,39 +2,36 @@
 
 ## About Me
 
-Cybersecurity student currently building hands-on experience through practical investigations and security labs.
+I am an Information Technology and Cybersecurity student at Munster Technological University (MTU), with professional experience using Microsoft 365, SharePoint, Power Apps, Power Automate, Power BI and business management software.
 
-### Areas of Interest
+My professional background includes developing internal business applications, maintaining SharePoint-based workflows, reporting, customer issue tracking and operational coordination.
 
-- Security Operations (SOC)
-- DFIR (Digital Forensics & Incident Response)
-- Threat Detection
-- Network Traffic Analysis
-- Vulnerability Management
-- Threat Hunting
-- Incident Response
+I am interested in entry-level Application Support, IT Support and Business Systems Support roles, while continuing to develop practical networking and cybersecurity skills.
 
-### Platforms & Labs
+## Technical Skills & Experience
 
-- CyberDefenders
-- LetsDefend
-- OverTheWire
-- Wireshark
+- **Business Applications:** Microsoft 365, SharePoint, Power Apps, Power Automate, Power BI and GSS (end-user experience).
+- **IT & Networking Labs:** Cisco Packet Tracer, VLANs, trunking, routing, connectivity troubleshooting and Wireshark.
+- **Microsoft Identity:** Simulated Entra ID user support and authentication troubleshooting scenarios.
+- **Cybersecurity Labs:** SOC investigations, log analysis, DFIR exercises and network traffic analysis.
+- **Linux:** Introductory administration coursework.
 
-### Featured Projects
+## Featured Projects
 
-- DFIR CyberDefenders Portfolio
-- LetsDefend SOC Portfolio
+- Cisco Packet Tracer – Routing & Switching Labs
+- Microsoft Entra ID – Simulated IT Support Labs
 - Wireshark Investigations
-- Cybersecurity Notes
+- LetsDefend SOC Portfolio
+- DFIR CyberDefenders Portfolio
 - OverTheWire Bandit Writeups
 
-### Currently Learning
+## Currently Learning
 
-- Linux
-- Networking
-- Threat Detection
-- Incident Response
-- Security Operations
+- Routing & Switching and IT Infrastructure
+- Windows and Microsoft Administration
+- Application Support troubleshooting
+- Information Technology and Cybersecurity at MTU
+
+📍 Ireland
 
 📍 Ireland

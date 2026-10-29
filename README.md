@@ -1,16 +1,16 @@
 # Hi, I'm Gabriel 👋
 
-## About Me
+## ## About Me
 
-I am an Information Technology and Cybersecurity student at Munster Technological University (MTU), with professional experience using Microsoft 365, SharePoint, Power Apps, Power Automate, Power BI and business management software.
+I am an Information Technology and Cybersecurity student at Munster Technological University (MTU), with professional experience in project administration, ERP systems (Global Shop Solutions), purchasing, inventory records, customer support and business applications.
 
-My professional background includes developing internal business applications, maintaining SharePoint-based workflows, reporting, customer issue tracking and operational coordination.
+My experience includes processing purchase orders, maintaining and updating Bills of Materials (BOMs), working with ERP data, coordinating administrative activities, and developing internal solutions using Microsoft Power Apps, Power Automate, SharePoint and Power BI.
 
-I am interested in entry-level Application Support, IT Support and Business Systems Support roles, while continuing to develop practical networking and cybersecurity skills.
+I am currently seeking opportunities in Purchasing Administration, Purchasing Coordination, ERP-related roles and Project Administration, where I can apply my existing experience while continuing to develop my business systems and technical skills.
 
 ## Technical Skills & Experience
 
-- **Business Applications:** Microsoft 365, SharePoint, Power Apps, Power Automate, Power BI and GSS (end-user experience).
+- **ERP & Business Applications:** Global Shop Solutions (GSS), purchasing, purchase orders, BOM maintenance, inventory records, Microsoft 365, SharePoint, Power Apps, Power Automate and Power BI.
 - **IT & Networking Labs:** Cisco Packet Tracer, VLANs, trunking, routing, connectivity troubleshooting and Wireshark.
 - **Microsoft Identity:** Simulated Entra ID user support and authentication troubleshooting scenarios.
 - **Cybersecurity Labs:** SOC investigations, log analysis, DFIR exercises and network traffic analysis.
